@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mapred.iml" filepath="$PROJECT_DIR$/.idea/modules/mapred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mapred_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mapred_main.iml" group="mapred" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mapred_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mapred_test.iml" group="mapred" />
+    </modules>
+  </component>
+</project>

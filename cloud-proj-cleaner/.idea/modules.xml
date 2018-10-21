@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cleaner_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cleaner_main.iml" group="cleaner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cleaner_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cleaner_test.iml" group="cleaner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-proj-cleaner.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-proj-cleaner.iml" />
+    </modules>
+  </component>
+</project>
